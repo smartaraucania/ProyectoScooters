@@ -1,0 +1,13 @@
+Backend/node_modules
+
+Frontend/node_modules/**/*
+Frontend/.expo/*
+Frontend/npm-debug.*
+Frontend/*.jks
+Frontend/*.p8
+Frontend/*.p12
+Frontend/*.key
+Frontend/*.mobileprovision
+Frontend/*.orig.*
+Frontend/web-build/
+Frontend/web-report/
